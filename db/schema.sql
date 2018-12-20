@@ -7,3 +7,5 @@ CREATE TABLE IF NOT EXISTS profiles (
    scores VARCHAR(50),
    primary key(id)
 );
+
+select * from profiles;
